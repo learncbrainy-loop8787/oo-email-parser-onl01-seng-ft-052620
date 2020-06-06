@@ -6,7 +6,7 @@ class EmailParser
   attr_accessor :EmailAddressParser
   
   def initialize(EmailAddressParser)
-@csv_emails = 
+@ = EmailAddressParser
 
   end 
 
